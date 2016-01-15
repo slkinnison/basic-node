@@ -1,0 +1,15 @@
+{
+  "name": "@slkinnison/hello-world",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Stephen L. Kinnison",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": ""
+}
